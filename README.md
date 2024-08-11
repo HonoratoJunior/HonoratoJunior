@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HonoratoJunior
-- 👀 I’m interested in  ...
-- 🌱 I’m currently learning Node, JavaScript, HTML, CSS, PostgreSQL, MySQL, Cloud Computing (AWS), Git e GitHub
+- 👀 I’m interested in Development Software, Blockchain, Cryptocurrencies
+- 🌱 I’m currently learning Node, JavaScript, Solidty, Java, HTML, CSS, PostgreSQL, MySQL, Cloud Computing (AWS), Git e GitHub
 - 💞️ I’m looking to collaborate on Services compatible with my knowledge
 - 📫 How to reach me https://www.linkedin.com/in/honorato-junior-226a2b112
 - 📫 How to reach me (21)96456-9372 
