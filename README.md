@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/honorato-junior-226a2b112">
+  <a href="https://www.linkedin.com/in/jose-honorato-226a2b112">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:kallelhonorato@gmail.com">
