@@ -59,7 +59,7 @@
 
 > Pin your best repositories on your profile and describe them here.
 
-- 🔗 **[Project name](HonoratoJunior/meubrecho)** – one line about what it does and the tech used
+- 🔗 **[HonoratoJunior/meubrecho](link)** – one line about what it does and the tech used
 - 🔗 **[Project name](link)** – one line about what it does and the tech used
 
 ## 📫 Let's connect
