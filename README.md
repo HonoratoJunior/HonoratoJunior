@@ -61,7 +61,7 @@
 
 - 🔗 [**[meubrecho](link)**](https://github.com/HonoratoJunior/meubrecho) – one line about what it does and the tech used
 - 🔗 [**[onde-tem-vaga](link)](https://github.com/HonoratoJunior/onde-tem-vaga)** – one line about what it does and the tech used
-- 🔗 [**[Cadstro-de-Alunos](link)(https://github.com/Cadstro-de-Alunos)** – one line about what it does and the tech used
+- 🔗 [**[Cadstro-de-Alunos](link)](https://github.com/Cadstro-de-Alunos)** – one line about what it does and the tech used
 
 
 ## 📫 Let's connect
