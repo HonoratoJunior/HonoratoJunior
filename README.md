@@ -28,7 +28,7 @@
 
 **Languages & Front-end**
 
-![JavaScript](repo:HonoratoJunior/meubrecho  language:JavaScript)
+![repo:HonoratoJunior/meubrecho  language:JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
