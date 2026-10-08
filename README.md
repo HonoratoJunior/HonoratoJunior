@@ -19,7 +19,7 @@
 
 ## 🚀 About me
 
-- 💻 Passionate about **software development**, **Cybersecurity** **blockchain** and **cryptocurrencies**
+- 💻 Passionate about **software development**, **Cybersecurity**, **Blockchain** and **Cryptocurrencies**
 - 🌱 Currently deepening my hard skills in **GO**, **Node.js**, **JavaScript**, **Typescript** and **GCP**
 - 🤝 Open to collaborating on projects and opportunities that match my stack
 - 📍 Based in Rio de Janeiro, Brazil 🇧🇷
