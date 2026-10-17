@@ -7,7 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jose-honorato-226a2b112">
+  <a href="https://sitedohonorato.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/honorato-junior-226a2b112">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:kallelhonorato@gmail.com">
@@ -85,7 +88,6 @@
 
 > Pin your best repositories on your profile and describe them here.
 
-- 🔗 [**[meusite]([link](https://sitedohonorato.netlify.app/))**](https://github.com/HonoratoJunior/meubrecho) – one line about what it does and the tech used
 - 🔗 [**[meubrecho](link)**](https://github.com/HonoratoJunior/meubrecho) – one line about what it does and the tech used
 - 🔗 [**[onde-tem-vaga](link)](https://github.com/HonoratoJunior/onde-tem-vaga)** – one line about what it does and the tech used
 - 🔗 [**[Cadstro-de-Alunos](link)](https://github.com/HonoratoJunior/Cadstro-de-Alunos))** – one line about what it does and the tech used
@@ -93,4 +95,4 @@
 
 ## 📫 Let's connect
 
-I'm open to new opportunities and collaborations. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/honorato-junior-226a2b112) or [email](mailto:kallelhonorato@gmail.com).
+I'm open to new opportunities and collaborations. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/honorato-junior-226a2b112) or [email](mailto:kallelhonorato@gmail.com).- 🌐 Meu portfólio: [sitedohonorato.netlify.app](https://sitedohonorato.netlify.app/)
