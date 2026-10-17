@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://sitedohonorato.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+    <img src="https://img.shields.io/badge/Meu Site-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/honorato-junior-226a2b112">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
