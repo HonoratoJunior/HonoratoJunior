@@ -95,4 +95,4 @@
 
 ## 📫 Let's connect
 
-I'm open to new opportunities and collaborations. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/honorato-junior-226a2b112) or [email](mailto:kallelhonorato@gmail.com).- 🌐 Meu portfólio: [sitedohonorato.netlify.app](https://sitedohonorato.netlify.app/)
+I'm open to new opportunities and collaborations. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/honorato-junior-226a2b112) or [email](mailto:kallelhonorato@gmail.com).- 🌐 Meu site [sitedohonorato.netlify.app](https://sitedohonorato.netlify.app/)
